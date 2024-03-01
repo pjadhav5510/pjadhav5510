@@ -41,6 +41,7 @@ My name is Piyush Jadhav. I am a graduate student at San Diego State University 
 <a href="https://www.linkedin.com/in/piyushjadhav04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankabirajdar" height="30" width="40" /></a>
 <a href="https://github.com/pjadhav5510" target="blank"><img align="center" src="https://www.svgrepo.com/show/475654/github-color.svg" alt="priyankabirajdar" height="30" width="40" /></a>  
 
+## My GitHub Stats &#128202;
 [![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjadhav5510&show_icons=true&theme=tokyonight)](https://github.com/piabirajdar/github-readme-stats) 
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyankabirajdar" height="30" width="40" /></a>
