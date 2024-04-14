@@ -6,7 +6,7 @@
 My name is Piyush Jadhav. I am a graduate student at San Diego State University majoring in Big Data Analytics. Thank you for viewing my github profile.
 
 ## About Me &#9997;
--  🔭 I’m currently working as a Research Graduate Assistant for the past year at STAR Labs San Diego State University.
+-  🔭 I’m currently working as a Research Graduate Assistant for the past year at San Diego State University.
 - 💬 Ask me about Machine Learning Models for supervised Learning, unsupervised learning and Reinforcement Learning.
 - 💬 For data visualization I have been working on various tools which includes PowerBI, ArcGIS, and Tableau.
 - 💬 You can also talk to me about databases like MySQL, MongoDB, and PostgreSQL.
